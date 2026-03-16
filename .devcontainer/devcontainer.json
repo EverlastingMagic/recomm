@@ -23,7 +23,7 @@
         "ms-toolsai.jupyter"
       ],
       "settings": {
-        "python.defaultInterpreterPath": "python"
+        "python.defaultInterpreterPath": "python3"
       }
     }
   },
