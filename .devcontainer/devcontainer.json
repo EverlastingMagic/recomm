@@ -3,7 +3,7 @@
   "build": {
     "dockerfile": "./Dockerfile"
   },
-  "workspaceFolder": "/root/workspaces/recom",
+  // "workspaceFolder": "/workspaces/recom",
   "remoteUser": "root",
   "postStartCommand": "echo container ready",
   "customizations": {
